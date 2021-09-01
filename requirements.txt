@@ -1,0 +1,8 @@
+numpy
+pandas
+re
+datetime
+IPython
+dill
+statsmodels
+sklearn
